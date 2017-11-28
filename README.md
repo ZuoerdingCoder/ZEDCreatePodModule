@@ -1,0 +1,2 @@
+# ZEDCreatePodModule
+使用脚本文件用于快速创建组件化时的模板工程
