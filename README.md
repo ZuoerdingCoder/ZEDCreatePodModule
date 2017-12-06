@@ -25,7 +25,7 @@
 ./upload.sh
 ```
 
-5.如果在执行.sh时出现权限文件，可以用下面的修改一下即可打开  xattr -rd com.apple.quarantine xxx.sh
+5.如果在执行.sh时出现权限问题，可以用下面的修改一下即可打开  xattr -rd com.apple.quarantine xxx.sh
 ```sh
 xattr -rd com.apple.quarantine valideSpec.sh
 ```
